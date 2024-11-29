@@ -1,5 +1,5 @@
-[22:02:30] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[22:02:31] [main/INFO]: Loading 58 mods:
+[23:42:46] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[23:42:46] [main/INFO]: Loading 58 mods:
 	- fabric-api 0.102.0+1.21
 	   |-- fabric-api-base 0.4.42+6573ed8cd1
 	   |-- fabric-api-lookup-api-v1 1.6.68+b5597344d1
@@ -75,63 +75,66 @@
 	   \-- sgui 1.6.0+1.21
 	- voicechat 1.21.1-2.5.26
 	   \-- fabric-key-binding-api-v1 1.0.47+0af3f5a76a
-[22:02:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/new-repository-test-ms/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:02:32] [main/INFO]: Compatibility level set to JAVA_17
-[22:02:32] [main/INFO]: Compatibility level set to JAVA_21
-[22:02:34] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
-[22:02:35] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22:02:58] [main/INFO]: [voicechat] Compatibility version 18
-[22:02:58] [main/INFO]: [voicechat] Loading plugins
-[22:02:58] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[22:02:58] [main/INFO]: [voicechat] Initializing plugins
-[22:02:58] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[22:02:58] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:02:59] [main/WARN]: Missing data pack $polymer-resources
-[22:03:04] [main/INFO]: Loaded 1291 recipes
-[22:03:05] [main/INFO]: Loaded 1399 advancements
-[22:03:05] [Thread-3/INFO]: Loaded 58 translation keys
-[22:03:06] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 11.06 ms
-[22:03:06] [Server thread/INFO]: Starting minecraft server version 1.21
-[22:03:06] [Server thread/INFO]: Loading properties
-[22:03:06] [Server thread/INFO]: Default game type: SURVIVAL
-[22:03:06] [Server thread/INFO]: Generating keypair
-[22:03:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:03:07] [Server thread/INFO]: Using epoll channel type
-[22:03:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:03:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:03:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:03:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:03:07] [Server thread/INFO]: Preparing level "world"
-[22:03:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:03:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:03:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:03:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:03:17] [Worker-Main-1/INFO]: Preparing spawn area: 53%
-[22:03:17] [Server thread/INFO]: Time elapsed: 1746 ms
-[22:03:17] [Server thread/INFO]: Done (10.474s)! For help, type "help"
-[22:03:18] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[22:03:18] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'offer-ceremony.gl.at.ply.gg:1349'
-[22:03:18] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 45544
-[22:03:41] [Server thread/INFO]: RdEs0116[/127.158.213.163:36271] logged in with entity id 26 at (-0.5, 96.0, 10.5)
-[22:03:41] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
-[22:03:41] [Server thread/INFO]: RdEs0116 joined the game
-[22:03:44] [Server thread/INFO]: [voicechat] Received secret request of RdEs0116 (18)
-[22:03:44] [Server thread/INFO]: [voicechat] Sent secret to RdEs0116
-[22:03:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4bfa4ea4-0a87-31f1-a68d-b4e3369fea0f
-[22:03:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4bfa4ea4-0a87-31f1-a68d-b4e3369fea0f
-[22:03:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player RdEs0116 (4bfa4ea4-0a87-31f1-a68d-b4e3369fea0f) successfully connected to voice chat
-[22:03:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2704ms or 54 ticks behind
-[22:04:17] [Server thread/INFO]: [RdEs0116: Teleported RdEs0116 to 211.500000, 109.500000, 71.500000]
-[22:05:10] [Server thread/INFO]: Stopping the server
-[22:05:10] [Server thread/INFO]: Stopping server
-[22:05:10] [Server thread/INFO]: Saving players
-[22:05:10] [Server thread/INFO]: RdEs0116 lost connection: Server closed
-[22:05:10] [Server thread/INFO]: RdEs0116 left the game
-[22:05:10] [Server thread/INFO]: Saving worlds
-[22:05:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[:D]'/minecraft:overworld
-[22:05:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[:D]'/minecraft:the_nether
-[22:05:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[:D]'/minecraft:the_end
-[22:05:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:05:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:05:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:05:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:42:47] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/new-repository-test-ms/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:42:47] [main/INFO]: Compatibility level set to JAVA_17
+[23:42:47] [main/INFO]: Compatibility level set to JAVA_21
+[23:42:48] [main/WARN]: Error loading class: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity (java.lang.ClassNotFoundException: com/simibubi/create/content/kinetics/base/BlockBreakingKineticBlockEntity)
+[23:42:49] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[23:43:08] [main/INFO]: [voicechat] Compatibility version 18
+[23:43:08] [main/INFO]: [voicechat] Loading plugins
+[23:43:08] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[23:43:08] [main/INFO]: [voicechat] Initializing plugins
+[23:43:08] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[23:43:09] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:43:15] [main/INFO]: Loaded 1291 recipes
+[23:43:15] [main/INFO]: Loaded 1399 advancements
+[23:43:16] [Thread-3/INFO]: Loaded 58 translation keys
+[23:43:17] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 7.004 ms
+[23:43:17] [Server thread/INFO]: Starting minecraft server version 1.21
+[23:43:17] [Server thread/INFO]: Loading properties
+[23:43:17] [Server thread/INFO]: Default game type: SURVIVAL
+[23:43:17] [Server thread/INFO]: Generating keypair
+[23:43:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:43:17] [Server thread/INFO]: Using epoll channel type
+[23:43:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:43:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:43:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:43:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:43:18] [Server thread/INFO]: Preparing level "world"
+[23:43:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:43:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:43:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:43:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:43:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:43:33] [Worker-Main-1/INFO]: Preparing spawn area: 8%
+[23:43:34] [Worker-Main-1/INFO]: Preparing spawn area: 40%
+[23:43:34] [Server thread/INFO]: Time elapsed: 2770 ms
+[23:43:34] [Server thread/INFO]: Done (16.420s)! For help, type "help"
+[23:43:34] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[23:43:34] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'offer-ceremony.gl.at.ply.gg:1349'
+[23:43:34] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 45544
+[23:44:02] [Server thread/INFO]: RdEs0116[/127.158.213.163:36897] logged in with entity id 20 at (210.01101467712272, 109.0, 71.87535802981424)
+[23:44:02] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[23:44:02] [Server thread/INFO]: RdEs0116 joined the game
+[23:44:03] [Server thread/INFO]: [voicechat] Received secret request of RdEs0116 (18)
+[23:44:03] [Server thread/INFO]: [voicechat] Sent secret to RdEs0116
+[23:44:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4bfa4ea4-0a87-31f1-a68d-b4e3369fea0f
+[23:44:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4bfa4ea4-0a87-31f1-a68d-b4e3369fea0f
+[23:44:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player RdEs0116 (4bfa4ea4-0a87-31f1-a68d-b4e3369fea0f) successfully connected to voice chat
+[23:46:40] [Server thread/INFO]: [RdEs0116: Modified entity data of Cat]
+[23:47:21] [Server thread/INFO]: [RdEs0116: Modified entity data of Cat]
+[23:47:38] [Server thread/INFO]: [RdEs0116: Modified entity data of Cat]
+[23:47:51] [Server thread/INFO]: [RdEs0116: Modified entity data of Wolf]
+[23:48:19] [Server thread/INFO]: Stopping the server
+[23:48:19] [Server thread/INFO]: Stopping server
+[23:48:19] [Server thread/INFO]: Saving players
+[23:48:19] [Server thread/INFO]: RdEs0116 lost connection: Server closed
+[23:48:19] [Server thread/INFO]: RdEs0116 left the game
+[23:48:19] [Server thread/INFO]: Saving worlds
+[23:48:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[:D]'/minecraft:overworld
+[23:48:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[:D]'/minecraft:the_nether
+[23:48:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[:D]'/minecraft:the_end
+[23:48:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:48:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:48:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:48:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
