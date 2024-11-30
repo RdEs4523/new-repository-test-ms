@@ -1,100 +1,688 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732739892219 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1732923763421 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732739895445 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732923766550 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732739898575 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732923769686 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732739901668 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732923773010 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732739904745 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732923776114 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732739907838 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732923779234 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732739911014 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732923782409 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732739914181 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732923785510 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732739917498 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732923788642 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732739920634 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732923791773 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732739923772 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732923794891 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732739926870 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732923798023 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732739929949 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732923801151 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732739933112 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732923804248 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732739936250 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732923807341 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732739939374 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732923810463 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1732739942497 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1732923813610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923816712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923819907 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923822999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923826089 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923829206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923832288 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923835381 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923838478 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923841580 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923844675 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923847780 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923850863 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923854009 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923857136 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923860287 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923863377 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923866468 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923869592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923872685 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923875774 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923878939 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923882048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923885145 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923888229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923891315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923894482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923897606 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923900777 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923903874 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923906998 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923910213 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923913303 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923916417 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923919528 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923922657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923925882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923928978 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923932074 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923935184 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923938264 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923941350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923944428 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923947531 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923950631 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923953756 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923957020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923960106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923963241 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923966350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923969451 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923972556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923975646 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923978755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923981841 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923984937 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923988047 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923991146 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923994246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732923997385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924000520 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924003637 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924006737 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924009869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924012970 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924016078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924019178 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924022280 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924025401 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924028522 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924031643 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924035013 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924038119 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924041234 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924044332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924047522 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924050647 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924053776 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924056864 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924059973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924063070 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924066170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924069275 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924072350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924075429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924078665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924081759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924084900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924088045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924091126 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924094262 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924097354 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924100464 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924103564 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924106654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924109812 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924112891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924115971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+officer-di.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+offer-ceremony.gl.at.ply.gg:1349 => 127.0.0.1:45544 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1732924119079 tunnel running, 2 tunnels registered
 
 
 TUNNELS
